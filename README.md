@@ -10,3 +10,11 @@ Para acesso das imagens em alta qualidade, acessa o arquivo no repositório "ace
 <p align="center"> 
   <img width="470" src="src/assets/to_readme/modelo_bpmn.png">
 </p>  
+
+
+
+## Interface Gráfica
+
+<p align="center"> 
+  <img width="470" src="src/assets/to_readme/interface_grafica.jpg">
+</p>  
