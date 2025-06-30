@@ -9,7 +9,7 @@ O relatório construido pelo grupo está no arquivo "relatório" disponível no 
 ## Modelo BPMN
 
 <p align="center"> 
-  <img width="470" src="src/assets/to_readme/modelo_bpmn.png">
+  <img width="470" src="src/assets/to_readme/diagrama_bpmn.png">
 </p>  
 
 
