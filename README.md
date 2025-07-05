@@ -19,3 +19,8 @@ O relatório construido pelo grupo está no diretório "relatório" disponível 
 <p align="center"> 
   <img width="470" src="src/assets/to_readme/interface_grafica.jpg">
 </p>  
+
+
+## Vídeo da apresentação do grupo
+
+[Link do Google Drive com acesso ao vídeo](https://drive.google.com/drive/folders/1I_sXhXuvRBfToBJ_pCbS2Y9BMgBKqOtp)
